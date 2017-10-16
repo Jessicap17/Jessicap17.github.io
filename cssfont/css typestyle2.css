@@ -1,0 +1,97 @@
+div {
+	background-color: black;
+	position: absolute;
+	top: 200px;
+}
+
+.box1 {
+	width: 10px;
+	height: 200px;
+	left: 200px;
+	background-color: red;
+}
+
+.box2 {
+	width: 10px;
+	height: 105px;
+	left: 325px;
+	transform: rotate(-30deg);
+	top: 300px;
+}
+
+.box3 {
+	width: 100px;
+	height: 100px;
+	left: 220px;
+	border-radius: 50%;
+}
+
+.box4 {
+	width: 10px;
+	height: 222px;
+	left: 440px;
+	transform: rotate(25deg);
+	top: 185px;
+	background-color: red;
+}
+
+.box5 {
+	top: 200px;
+	left: 420px;
+	width: 0;
+	height: 0;
+	background-color: transparent;
+	border-left: 90px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 200px solid black;
+}
+
+.box6 {
+	left: 605px;
+	width: 0px;
+	height: 0px;
+	background-color: transparent;
+	border-left: 0px solid transparent;
+	border-right: 118px solid transparent;
+	border-bottom: 200px solid black;
+}
+
+.box7 {
+	top: 200px;
+	width: 10px;
+	height: 200px;
+	left: 735px;
+	background-color: red;
+}
+
+.box8 {
+	width: 190px;
+	height: 190px;
+	left: 770px;
+	border-radius: 50%;
+}
+
+.box9 {
+	top: 290px;
+	width: 10px;
+	height: 70px;
+	left: 940px;
+	background-color: red;
+	transform: rotate(90deg);
+}
+
+.box10 {
+	top: 320px;
+	width: 10px;
+	height: 80px;
+	left: 970px;
+	background-color: red;
+}
+
+.boxa {
+	top: 220px;
+	width: 10px;
+	height: 180px;
+	left: 880px;
+	background-color: red;
+}
