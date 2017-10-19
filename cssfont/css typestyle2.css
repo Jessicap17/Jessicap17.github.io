@@ -7,14 +7,14 @@ div {
 .box1 {
 	width: 10px;
 	height: 200px;
-	left: 200px;
+	left: 100px;
 	background-color: red;
 }
 
 .box2 {
 	width: 10px;
 	height: 105px;
-	left: 325px;
+	left: 225px;
 	transform: rotate(-30deg);
 	top: 300px;
 }
@@ -22,22 +22,21 @@ div {
 .box3 {
 	width: 100px;
 	height: 100px;
-	left: 220px;
+	left: 120px;
 	border-radius: 50%;
 }
 
 .box4 {
 	width: 10px;
-	height: 222px;
-	left: 440px;
+	height: 215px;
+	left: 340px;
 	transform: rotate(25deg);
-	top: 185px;
+	top: 192px;
 	background-color: red;
 }
 
 .box5 {
-	top: 200px;
-	left: 420px;
+	left: 320px;
 	width: 0;
 	height: 0;
 	background-color: transparent;
@@ -47,7 +46,7 @@ div {
 }
 
 .box6 {
-	left: 605px;
+	left: 505px;
 	width: 0px;
 	height: 0px;
 	background-color: transparent;
@@ -60,14 +59,14 @@ div {
 	top: 200px;
 	width: 10px;
 	height: 200px;
-	left: 735px;
+	left: 635px;
 	background-color: red;
 }
 
 .box8 {
 	width: 190px;
 	height: 190px;
-	left: 770px;
+	left: 670px;
 	border-radius: 50%;
 }
 
@@ -75,7 +74,7 @@ div {
 	top: 290px;
 	width: 10px;
 	height: 70px;
-	left: 940px;
+	left: 840px;
 	background-color: red;
 	transform: rotate(90deg);
 }
@@ -84,14 +83,81 @@ div {
 	top: 320px;
 	width: 10px;
 	height: 80px;
-	left: 970px;
+	left: 870px;
 	background-color: red;
 }
 
-.boxa {
+.box11 {
+	top: 175px;
+	left: 928px;
+	width: 0px;
+	height: 0px;
+	background-color: transparent;
+	border-left: 0px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 120px solid black;
+	transform: rotate(90deg)
+}
+
+.box12 {
+	top: 305px;
+	left: 928px;
+	width: 0px;
+	height: 0px;
+	background-color: transparent;
+	border-left: 0px solid transparent;
+	border-right: 70px solid transparent;
+	border-top: 120px solid black;
+	transform: rotate(-90deg)
+}
+
+.box13 {
+	top: 250px;
+	width: 10px;
+	height: 100px;
+	left: 950px;
+	background-color: red;
+	transform: rotate(90deg);
+}
+
+.box14 {
+	width: 95px;
+	height: 95px;
+	left: 1050px;
+	border-radius: 50%;
+}
+
+.box15 {
+	top: 305px;
+	width: 95px;
+	height: 95px;
+	left: 1050px;
+	border-radius: 50%;
+}
+
+.box16 {
+	width: 10px;
+	height:75px;
+	left: 1089px;
+	transform: rotate(-53deg);
+	top: 260px;
+	background-color: red;
+}
+
+boxa {
 	top: 220px;
 	width: 10px;
 	height: 180px;
-	left: 880px;
+	left: 780px;
 	background-color: red;
+}
+
+.description {
+	background-color: transparent;
+	top: 25px;
+	font-family: Helvetica;
+	font-size: 20px;
+	color: rgb(127, 120, 124);
+	width: 800px;
+	line-height: 30px;
 }
