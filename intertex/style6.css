@@ -1,0 +1,63 @@
+body {
+	background-color: black;
+}
+
+div {
+	position: absolute;
+}
+
+.box1 {
+	color: white;
+	top: 40px;
+	padding-left: 40px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 290px;
+}
+
+.cauldron {
+	position: absolute;
+	width: 1500px;
+	top: 300px;
+	padding-left: 40px;
+}
+
+.box2 {
+	color: grey;
+	top: 1120px;
+	left: 1680px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	width: 400px;
+}
+
+.box3 {
+	color: grey;
+	top: 1190px;
+	left: 1680px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	width: 600px;
+}
+
+.box4 {
+	color: rgb(91, 189, 188);
+	top: 1025px;
+	left: 1990px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+.box5 {
+	color: rgb(91, 189, 188);
+	top: 1100px;
+	left: 2200px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+
+
+

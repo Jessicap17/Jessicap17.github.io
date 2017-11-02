@@ -1,0 +1,65 @@
+body {
+	background-color: black;
+}
+
+div {
+	position: absolute;
+}
+
+.box1 {
+	color: rgb(91, 189, 188);
+	top: 40px;
+	padding-left: 40px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+.box2 {
+	color: rgb(91, 189, 188);
+	top: 200px;
+	left: 850px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+.box3 {
+	color: white;
+	top: 1250px;
+	left: 1730px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 400px;
+}
+
+.box4 {
+	color: grey;
+	top: 1320px;
+	left: 1680px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	width: 500px
+}
+
+.box5 {
+	color: white;
+	top: 1390px;
+	left: 1730px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 400px;
+}
+.box6 {
+	color: rgb(91, 189, 188);
+	top: 1310px;
+	left: 2200px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+.cheshire {
+	position: absolute;
+	width: 1000px;
+	top: 500px;
+	left: 750px;
+}
