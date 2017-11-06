@@ -1,0 +1,52 @@
+body {
+	background-color: black;
+	height: 2000px;
+}
+
+div {
+	position: absolute;
+}
+
+.box1 {
+	color: white;
+	top: 40px;
+	left: 400px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 320px;
+}
+
+.smoke {
+	position: absolute;
+	top: 150px;
+	left: 400px;
+	width: 300px;
+	height: 1500px;
+}
+
+.box2 {
+	color: grey;
+	top: 1750px;
+	left: 400px;
+	font-family: georgia;
+	font-size: 25px;
+	font-style: italic;
+	width: 220px;
+	height: 100px;
+	text-align: center;
+	overflow: scroll;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+.box2:hover {
+	opacity: 1;
+}
+
+.box3 {
+	color: rgb(91, 189, 188);
+	top: 1760px;
+	left: 650px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}

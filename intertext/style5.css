@@ -12,6 +12,7 @@ div {
 	padding-left: 40px;
 	font-family: Lucida Blackletter;
 	font-size: 100px;
+	width: 1000px;
 }
 
 .box2 {
@@ -20,6 +21,7 @@ div {
 	left: 850px;
 	font-family: Lucida Blackletter;
 	font-size: 100px;
+	width: 900px;
 }
 
 .box3 {
@@ -62,4 +64,10 @@ div {
 	width: 1000px;
 	top: 500px;
 	left: 750px;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+.cheshire:hover {
+	opacity: 1;
 }

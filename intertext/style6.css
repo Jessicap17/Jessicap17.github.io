@@ -8,11 +8,13 @@ div {
 
 .box1 {
 	color: white;
-	top: 40px;
+	top: 60px;
 	padding-left: 40px;
 	font-family: georgia;
 	font-size: 20px;
-	width: 290px;
+	font-weight: bold;
+	width: 440px;
+	line-height: 40px;
 }
 
 .cauldron {
@@ -20,44 +22,59 @@ div {
 	width: 1500px;
 	top: 300px;
 	padding-left: 40px;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+.cauldron:hover {
+	opacity: 1;
 }
 
 .box2 {
 	color: grey;
-	top: 1120px;
-	left: 1680px;
+	top: 1100px;
+	left: 1640px;
 	font-family: georgia;
-	font-size: 20px;
+	font-size: 40px;
 	font-style: italic;
-	width: 400px;
+	width: 500px;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+.box2:hover {
+	opacity: 1;
 }
 
 .box3 {
 	color: grey;
-	top: 1190px;
-	left: 1680px;
+	top: 1200px;
+	left: 1640px;
 	font-family: georgia;
-	font-size: 20px;
+	font-size: 40px;
 	font-style: italic;
 	width: 600px;
+	opacity: 0;
+	transition: opacity 1s linear;
 }
 
+.box3:hover {
+	opacity: 1;
+}
 .box4 {
 	color: rgb(91, 189, 188);
 	top: 1025px;
-	left: 1990px;
+	left: 2200px;
 	font-family: Lucida Blackletter;
 	font-size: 100px;
 }
 
 .box5 {
 	color: rgb(91, 189, 188);
-	top: 1100px;
-	left: 2200px;
+	top: 1125px;
+	left: 2300px;
 	font-family: Lucida Blackletter;
 	font-size: 100px;
 }
-
-
 
 

@@ -1,0 +1,136 @@
+body {
+	background-color: black;
+}
+
+div {
+	position: absolute;
+}
+
+.box1 {
+	color: white;
+	top: 60px;
+	padding-left: 40px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 320px;
+}
+
+.box2 {
+	color: grey;
+	top: 400px;
+	left: 400px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	width: 420px
+}
+
+.box3 {
+	color: grey;
+	top: 700px;
+	left: 400px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 420px
+}
+
+.box4 {
+	color: grey;
+	top: 750px;
+	left: 900px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 100px
+}
+
+.box5 {
+	color: grey;
+	top: 800px;
+	left: 1000px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 20px
+}
+.box6 {
+	color: grey;
+	top: 900px;
+	left: 1050px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 20px
+}
+
+.box7 {
+	color: grey;
+	top: 1050px;
+	left: 1200px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 100px
+}
+
+.box8 {	
+	color: red;
+	top: 1100px;
+	left: 1230px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 100px
+}
+
+.box9 {
+	color: red;
+	top: 1300px;
+	left: 1280px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 100px
+}
+
+.box10 {
+	color: red;
+	top: 1600px;
+	left: 1300px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	font-weight: bold;
+	width: 100px
+}
+
+.box11 {
+	color: red;
+	top: 1700px;
+	left: 1300px;
+	font-family: Lucida Blackletter;
+	font-size: 300px;
+	width: 1000px;
+	opacity: 0;
+	transition: opacity 1s linear;
+}
+
+.box11:hover {
+	opacity: 1;
+}
+
+.box12 {
+	color: red;
+	top: 1918px;
+	left: 2950px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}

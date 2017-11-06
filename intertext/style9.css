@@ -1,0 +1,54 @@
+body {
+	background-color: black;
+}
+
+div {
+	position: absolute;
+}
+
+.box1 {
+	color: white;
+	top: 40px;
+	left: 400px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 320px;
+	text-align: center
+}
+
+.box2 {
+	color: white;
+	top: 130px;
+	left: 410px;
+	font-family: georgia;
+	font-size: 20px;
+	width: 300px;
+	text-align: center
+}
+
+.box3 {
+	color: grey;
+	top: 500px;
+	left: 460px;
+	font-family: georgia;
+	font-size: 20px;
+	font-style: italic;
+	width: 190px;
+	text-align: center;
+	line-height: 50px;
+}
+
+.box4 {
+	color: rgb(91, 189, 188);
+	top: 1025px;
+	left: 900px;
+	font-family: Lucida Blackletter;
+	font-size: 100px;
+}
+
+.wine {
+	position: absolute;
+	top: 800px;
+	left: 250px;
+	width: 600px;
+}
