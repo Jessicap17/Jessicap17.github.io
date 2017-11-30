@@ -1,0 +1,58 @@
+body {
+	background-color: black;
+}
+
+.bigvine4 {
+	position: absolute;
+	width: 950px;
+	height: 900px;
+	left: -250px;
+	top: -60px;
+}
+
+.thriller {
+	position: absolute;
+	left: 700px;
+	top: -20px;
+}
+
+.mars {
+	position: absolute;
+	left: 680px;
+	top: 270px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.dark {
+	position: absolute;
+	left: 645px;
+	top: 360px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.apes {
+	position: absolute;
+	left: 620px;
+	top: 450px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.sweeney {
+	position: absolute;
+	left: 575px;
+	top: 540px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	width: 350px;
+}

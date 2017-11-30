@@ -1,0 +1,48 @@
+body {
+	background-color: black;
+}
+
+.romance {
+	position: absolute;
+	width: 400px;
+	height: 370px;
+	left: 15px;
+	top: 20px;
+}
+
+.bigvine {
+	position: absolute;
+	width: 1400px;
+	height: 900px;
+	left: 250px;
+	top: -10px;
+}
+
+.edward {
+	position: absolute;
+	left: 280px;
+	top: 430px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.bride {
+	position: absolute;
+	left: 350px;
+	top: 510px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.sleepyhollow {
+	position: absolute;
+	left: 390px;
+	top: 590px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;

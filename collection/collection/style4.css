@@ -1,0 +1,98 @@
+body {
+	background-color: black;
+}
+
+.fantasy {
+	position: absolute;
+	left: 975px;
+	top: 20px;
+}
+
+.bigvine4 {
+	position: absolute;
+	width: 1150px;
+	height: 1000px;
+	left: -250px;
+	top: -60px;
+}
+
+.beetlejuice {
+	position: absolute;
+	left: 775px;
+	top: 210px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.sleepyhollow {
+	position: absolute;
+	left: 875px;
+	top: 320px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.dark {
+	position: absolute;
+	left: 840px;
+	top: 400px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.miss {
+	position: absolute;
+	left: 800px;
+	top: 500px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	width: 200px;
+}
+
+.nightmare {
+	position: absolute;
+	left: 700px;
+	top: 670px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.scissor {
+	position: absolute;
+	left: 40px;
+	top: 840px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.coraline {
+	position: absolute;
+	left: 215px;
+	top: 760px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.james {
+	position: absolute;
+	left: 460px;
+	top: 840px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}

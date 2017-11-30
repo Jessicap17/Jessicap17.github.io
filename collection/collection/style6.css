@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+}
+
+.bigvine6 {
+	position: absolute;
+	width: 1620px;
+	height: 880px;
+	top: -30px;
+	left: -500px;
+	transform: scaleX(-1);
+}
+
+.film {
+	position: absolute;
+	left: 450px;
+	top: 60px;
+}
+
+.bigeyes {
+	position: absolute;
+	left: 505px;
+	top: 510px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.bigfish {
+	position: absolute;
+	left: 330px;
+	top: 480px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
