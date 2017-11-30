@@ -1,0 +1,95 @@
+body {
+	background-color: black;
+}
+
+div {
+	position: absolute;
+}
+
+.tim {
+	position: absolute;
+	left: 375px;
+	top: 100px;
+}
+
+.frame {
+	position: absolute;
+	width: 611px;
+	height: 479px;
+	left: 329px;
+	top: 55px;
+}
+
+.vine {
+	position: absolute;
+	width: ;
+	height: 1500px;
+	left: 30px;
+	top: 550px;
+}
+
+.scifi {
+	position: absolute;
+	width: 175px;
+	height: 155px;
+	left: 310px;
+	top: 1205px;
+}
+
+.fantasy {
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	left: 750px;
+	top: 1100px;
+}
+
+.comedy {
+	position: absolute;
+	width: 150px;
+	height: 130px;
+	left: 750px;
+	top: 1450px;
+}
+
+.horror {
+	position: absolute;
+	width: 120px;
+	height: 105px;
+	left: 350px;
+	top: 1450px;
+}
+
+.romance {
+	position: absolute;
+	width: 150px;
+	height: 120px;
+	left: 350px;
+	top: 1710px;
+}
+
+.film {
+	position: absolute;
+	width: 175px;
+	height: 170px;
+	left: 720px;
+	top: 1700px;
+}
+
+.thriller {
+	position: absolute;
+	width: 170px;
+	height: 160px;
+	left: 660px;
+	top: 1970px;
+}
+
+.quote {
+	position: absolute;
+	left: 416px;
+	top: 560px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 20px;
+}

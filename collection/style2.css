@@ -1,0 +1,69 @@
+body {
+	background-color: black;
+}
+
+.horror {
+	position: absolute;
+	left: 15px;
+	top: 20px;
+}
+
+.bigvine2 {
+	position: absolute;
+	width: 1200px;
+	height: 900px;
+	top: -155px;
+	left: 250px;
+	transform: rotate(-45deg);
+}
+
+.beetlejuice {
+	position: absolute;
+	left: 300px;
+	top: 310px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.frankenweenie {
+	position: absolute;
+	left: 275px;
+	top: 390px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.dark {
+	position: absolute;
+	left: 325px;
+	top: 470px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.sleepyhollow {
+	position: absolute;
+	left: 375px;
+	top: 550px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+.sweeney {
+	position: absolute;
+	left: 425px;
+	top: 630px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	width: 350px;
+}

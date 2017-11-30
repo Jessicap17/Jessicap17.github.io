@@ -1,0 +1,86 @@
+body {
+	background-color: black;
+}
+
+.comedy {
+	position: absolute;
+	top: 20px;
+	left: 50px;
+}
+
+.bigvine5 {
+	position: absolute;
+	width: 1020px;
+	height: 880px;
+	top: -8px;
+	left: 300px;
+}
+
+.beetlejuice {
+	position: absolute;
+	left: 575px;
+	top: 390px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+.peewees {
+	position: absolute;
+	left: 1335px;
+	top: 410px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	width: 250px;
+}
+.dark {
+	position: absolute;
+	left: 585px;
+	top: 310px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+.bigfish {
+	position: absolute;
+	left: 900px;
+	top: 210px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+.charlie {
+	position: absolute;
+	left: 380px;
+	top: 550px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	width: 250px;
+}
+.frankenweenie {
+	position: absolute;
+	left: 980px;
+	top: 540px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+	transform: rotate(30deg);
+}
+.mars {
+	position: absolute;
+	left: 960px;
+	top: 120px;
+	color: grey;
+	font-family: georgia;
+	font-style: italic;
+	font-size: 25px;
+}
+
+</body>
