@@ -1,0 +1,29 @@
+a {
+	position: absolute;
+}
+.greeting {
+	position: absolute;
+	padding-left: 20px;
+	font-family: georgia;
+}
+
+.p1 {
+	top: 50px;
+	left: 20px;
+}
+.p2 {
+	top: 90px;
+	left: 20px;
+}
+.p3 {
+	top: 130px;
+	left: 20px;
+}
+.p4 {
+	top: 170px;
+	left: 20px;
+}
+.p5 {
+	top: 210px;
+	left: 20px;
+}
